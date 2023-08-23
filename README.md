@@ -4,5 +4,5 @@ Responsive Coffee Themed Website created using HTML5, CSS, and Vanilla JavaScrip
 
 ![Local Image](1st%20page.PNG)
 ![Local Image](2nd%20page.PNG)
-
+![Local Image](3rd%20page.PNG)
 ![Local Image](4th%20page.PNG)
